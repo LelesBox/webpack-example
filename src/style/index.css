@@ -1,0 +1,8 @@
+.div {
+    height: 300px;
+    width: 300px;
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+    background: url("../asset/test.png");
+}
