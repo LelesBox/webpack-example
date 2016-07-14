@@ -5,7 +5,7 @@
 - 能自动编译ES6代码（当然了，既然能编译ES6代码当然就是自带模块化了）
 - 能抽出全局独立模块，而不是包裹在webpack里面
 - 按需加载
-- postCSS （css代码后处理，免得写各种vender code）
+- postCSS （css代码后处理，免得写各种vendor code）
 - 文件地址自动添加md5
 - 热更新
 - 自动测试
